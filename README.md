@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdhantShroff
+- 👋 Hi, I’m Edhant Shroff
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Websites
